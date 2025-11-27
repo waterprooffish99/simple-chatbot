@@ -108,7 +108,7 @@ if 'chat' not in st.session_state:
     st.session_state.messages = [{"role": "assistant", "content": "Hello! How can I assist you today?", "time": datetime.now()}]
 
 # --- Main UI ---
-st.title("🤖 WaterProofFish")
+st.title("🤖 WaterProofFish Chatbot")
 
 # Display chat messages
 for message in st.session_state.messages:
