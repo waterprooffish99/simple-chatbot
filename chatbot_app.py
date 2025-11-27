@@ -14,7 +14,7 @@ except Exception as e:
 
 # --- Page Setup ---
 st.set_page_config(
-    page_title="Gemini AI Chatbot",
+    page_title="WaterProofFish AI Chatbot",
     page_icon="🤖",
     layout="wide"
 )
